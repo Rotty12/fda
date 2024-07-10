@@ -62,7 +62,8 @@ padding: 5% 9%;
 }
 
 .img {
-width: 50%;
+display:inline-block; 
+text-align:center;
 } 
 
 
