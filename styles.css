@@ -62,10 +62,11 @@ padding: 5% 9%;
 }
 
 .img {
-border: 5px
-margin-left: 20px;  
-margin-right: 20px;
-margin-right: 50px;
+display: block;
+border-left: 70px
+margin-left: auto;
+margin-right: auto;
+width: 50%;
 }
 
 .feature-box{
