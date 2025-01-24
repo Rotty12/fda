@@ -100,10 +100,17 @@ background: #3498db;
  text-decoration: none;
 }
 
-.rowp{
-  width: 50px;
-  height: 50px;
-  object-fit: cover;
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
 }
 
 .apply{
