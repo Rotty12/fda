@@ -101,7 +101,6 @@ background: #3498db;
 }
 
 .rowp{
-  overflow: hidden;
   width: 50px;
   height: 50px;
   object-fit: cover;
