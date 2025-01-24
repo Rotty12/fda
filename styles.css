@@ -103,6 +103,7 @@ background: #3498db;
 .rowp{
   width: 100px;
   height: 100px;
+  object-fit: cover;
 }
 
 .apply{
