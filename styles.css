@@ -100,8 +100,13 @@ background: #3498db;
  text-decoration: none;
 }
 
-footer {
+.apply{
+  text-align: center;
+}
+
+.footer {
   background-color: #45a1ff;
+  font-weight: bold;
   text-align: center;
 }
 }
